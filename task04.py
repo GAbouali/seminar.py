@@ -1,0 +1,5 @@
+n = int(input('enter a number: '))
+a=int(n/6)
+b=int(n/6)
+c=int((a+b)*2)
+print (a,c,b)
